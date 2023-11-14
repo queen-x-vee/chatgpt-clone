@@ -10,7 +10,8 @@ export const html = `
 	</head>
 	<body class="bg-gray-700 text-white h-screen overflow-hidden flex">
 		<div class="bg-gray-900 w-1/5 p-6 overflow-auto">
-			<h1 class="text-2xl font-bold">ChatGPT Clone App</h1>
+			<h1 class="text-2xl font-bold">ChatGPT Clone App </h1>
+            <h3>By Valentina</h3>
 			<p class="mt-2 text-gray-400 text-lg">
 				Welcome! This app is your personal assistant that is available 24/7 to help with your questions.
 			</p>
