@@ -1,6 +1,8 @@
 name = "valentina-buoro"
 main = "src/index.js"
 compatibility_date = "2023-10-30"
+[ai]
+binding = "AI"  # This will be accessible in your worker as env.AI
 
 # Variable bindings. These are arbitrary, plaintext strings (similar to environment variables)
 # Note: Use secrets to store sensitive data.
